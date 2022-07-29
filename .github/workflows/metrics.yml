@@ -57,5 +57,6 @@ jobs:
           plugin_stackoverflow_lines: 4
           plugin_stackoverflow_lines_snippet: 2
           plugin_stackoverflow_sections: answers-top, questions-recent
+          plugin_stackoverflow_user: 4098532
           plugin_stars: yes
           plugin_stars_limit: 4
